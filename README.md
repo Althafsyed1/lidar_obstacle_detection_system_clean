@@ -1,22 +1,3 @@
-# lidar_obstacle_detector
-# LiDAR Obstacle Detection & Tracking (ROS)
-
-## What I Did (Ownership)
-This repository started from an open-source baseline and I turned it into a resume-grade, reproducible perception project by adding:
-- Clear documentation + pipeline explanation
-- Reproducible run scripts + parameter notes
-- Evaluation: FPS/latency logging and result snapshots
-- Demo assets (RViz config + screenshots)
-
-> Baseline reference: SS47816/lidar_obstacle_detector (used as initial starting point)
-
-## Project Highlights
-- Ground/obstacle separation
-- Clustering for obstacle candidates
-- Multi-object tracking (Hungarian assignment / IOU)
-- RViz visualization + configurable parameters
-
-
 3D LiDAR Object Detection &amp; Tracking using Euclidean Clustering &amp; Hungarian algorithm
 
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
