@@ -382,13 +382,5 @@ This fork includes the following enhancements:
 
 ---
 
-## 🙏 Acknowledgments
-
-- Original implementation and algorithm design by [SS47816](https://github.com/SS47816)
-- MAI City dataset team for excellent test data
-- LGSVL simulator team for testing infrastructure
-- ROS and PCL communities for foundational tools
-
----
 
 **Note:** This is currently a **ROS1 package** (Melodic/Noetic). A ROS2 port is planned - see [TODO.md](TODO.md) for details.
