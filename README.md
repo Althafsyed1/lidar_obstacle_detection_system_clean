@@ -367,7 +367,7 @@ This fork includes the following enhancements:
 
 ## 📞 Contact & Support
 
-- **Issues:** [GitHub Issues](https://github.com/Althafsyed1/lidar_obstacle_detection_system_clean/issues)
+- **Issues:** [GitHub Issues](https://github.com/Althafsyed1/lidar_obstacle_detection_system_clean)
 - **Discussions:** Use GitHub Discussions for questions
 - **Pull Requests:** Contributions welcome!
 
