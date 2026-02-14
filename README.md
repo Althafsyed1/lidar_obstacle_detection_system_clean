@@ -7,7 +7,9 @@
 
 **Real-time 3D obstacle detection and multi-object tracking using Euclidean clustering and Hungarian algorithm**
 
-![Demo](media/demo_1.gif)
+![Demo 1](media/demo_1.gif)
+
+![Demo 2](media/demo_2.gif)
 
 ---
 
@@ -113,9 +115,11 @@ source devel/setup.bash
 
 ## 🎮 Usage Guide
 
-### Option 1: Run with MAI City Dataset (Recommended)
+### Option 1: Run with MAI City Dataset (Recommended for Testing)
 
 This is the easiest way to see the system in action.
+
+![MAI City Demo](media/mai_city_00.gif)
 
 **Step 1:** Download the Dataset
 
@@ -147,6 +151,8 @@ You should now see:
 ### Option 2: Run with LGSVL Simulator
 
 For testing in a controlled simulation environment.
+
+![LGSVL Demo](media/lgsvl.gif)
 
 **Prerequisites:**  
 Install the [`lgsvl_utils`](https://github.com/SS47816/lgsvl_utils) package for simulator integration.
